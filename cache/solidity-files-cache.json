@@ -1,0 +1,79 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\work-min\\bird-test-token-migration-contract\\contracts\\BirdMigration.sol": {
+      "lastModificationDate": 1712763621299,
+      "contentHash": "a1ab1c9892c660c138cdeb213eaa5ed6",
+      "sourceName": "contracts/BirdMigration.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "BirdMigration"
+      ]
+    },
+    "E:\\work-min\\bird-test-token-migration-contract\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\IERC20.sol": {
+      "lastModificationDate": 1712091034506,
+      "contentHash": "5517c8678c18eb1a8ba58810e7ca39ca",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "IERC20"
+      ]
+    }
+  }
+}
